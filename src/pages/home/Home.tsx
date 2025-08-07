@@ -2,19 +2,23 @@ function Home() {
     return (
         <>
             <div style={{
+                backgroundColor: "#f3cbf7",
                 width: "100vw",
                 display: "flex",
-                justifyContent: "center"
+                justifyContent: "center",
+                margin: "0",
+                padding: "2rem",
             }}>
                 <div>
                     <div style={{
                          width: "80vw",
+                         fontSize: "2.5rem",
                          display: "flex",
                          flexDirection: "column",
                          alignItems: "center"
                     }}>
                         <h2>Se aconchegue!</h2>
-                        <p>Expresse aqui seus pensamentos e opniões</p>
+                        <p>Expresse aqui seus pensamentos e opiniões</p>
                     </div>
 
                     <div style={{
