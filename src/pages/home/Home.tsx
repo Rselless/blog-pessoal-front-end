@@ -13,7 +13,7 @@ function Home() {
                          flexDirection: "column",
                          alignItems: "center"
                     }}>
-                        <h2>Seja Bem Vinde!</h2>
+                        <h2>Se aconchegue!</h2>
                         <p>Expresse aqui seus pensamentos e opniões</p>
                     </div>
 
